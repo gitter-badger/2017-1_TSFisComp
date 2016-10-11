@@ -1,5 +1,7 @@
 # 2017-1 Temas Selectos de Física Computacional II (8307)
 
+[![Join the chat at https://gitter.im/2017-1_TSFisComp/Lobby](https://badges.gitter.im/2017-1_TSFisComp/Lobby.svg)](https://gitter.im/2017-1_TSFisComp/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Luis Benet, [Instituto de Ciencias Físicas](http://www.fis.unam.mx), UNAM
 
 Uriel Allan Aceves Rodríguez, [Facultad de Ciencias](http://www.fciencias.unam.mx), UNAM
